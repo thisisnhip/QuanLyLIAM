@@ -1,6 +1,6 @@
 ﻿namespace frmQuanLyLIAM
 {
-    partial class Form2
+    partial class frmManHinhChinh
     {
         /// <summary>
         /// Required designer variable.
@@ -30,14 +30,14 @@
         {
             SuspendLayout();
             // 
-            // Form2
+            // frmManHinhChinh
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Name = "Form2";
-            Text = "Form2";
-            Load += Form2_Load;
+            Name = "frmManHinhChinh";
+            Text = "Phần mềm quản lí LIAM";
+            Load += frmManHinhChinh_Load;
             ResumeLayout(false);
         }
 
