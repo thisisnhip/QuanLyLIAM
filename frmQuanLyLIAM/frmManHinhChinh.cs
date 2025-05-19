@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace frmQuanLyLIAM
 {
-    public partial class Form2 : Form
+    public partial class frmManHinhChinh : Form
     {
-        public Form2()
+        public frmManHinhChinh()
         {
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
+        private void frmManHinhChinh_Load(object sender, EventArgs e)
         {
 
         }
