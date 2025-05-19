@@ -10,15 +10,21 @@ using System.Windows.Forms;
 
 namespace frmQuanLyLIAM
 {
-    public partial class frmNhapHang : Form
+    public partial class frmQuanLiNo : Form
     {
-        public frmNhapHang()
+        public frmQuanLiNo()
         {
             InitializeComponent();
         }
 
-        private void frmNhapHang_Load(object sender, EventArgs e)
+        private void guna2ComboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void frmQuanLiNo_Load(object sender, EventArgs e)
+        {
+            
         }
     }
 }
